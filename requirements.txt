@@ -3,3 +3,6 @@ sklearn
 pandas
 numpy
 matplotlib
+streamlit
+joblib
+Pillow  # The package name for PIL is Pillow
