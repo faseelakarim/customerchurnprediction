@@ -4,6 +4,7 @@ pandas
 numpy
 matplotlib
 streamlit
+xgboost
 joblib
 Pillow  # The package name for PIL is Pillow
 gunicorn
